@@ -1,0 +1,147 @@
+body {
+    background-color: #ffffff;
+    margin: 0;
+    font-family: 'Alkatra', cursive;
+}
+
+.top {
+    height: 63px;
+    width: 100%;
+    background-color: #211b2e;
+
+
+}
+
+.log {
+    height: 62px;
+    width: 185px;
+    border-top-right-radius: 28px;
+    border-bottom-right-radius: 28px;
+    background-color: #9064f0;
+    position: relative;
+    box-shadow: 5px -1px 5px #1a0646;
+    position: relative;
+    float: left;
+
+
+}
+
+.log img {
+    height: 62px;
+    margin-left: 10px;
+
+}
+
+.log2 {
+    position: relative;
+    float: right;
+    margin-left: 700px;
+}
+
+.log2{
+    float: right;
+    margin-right: 30px;
+    color: #350750;
+}
+
+.but {
+    margin-top: 10px;
+    height: 35px;
+    width: 120px;
+    border-radius: 30px;
+    text-align: center;
+    background-color: #9064f0;
+    box-shadow: 5px -1px 5px #1a0646;
+    float: left;
+    padding-top: 8px;
+    margin-right: 20px;
+}
+.but a{
+    
+    text-decoration: none;
+    color: #1a0441;
+    
+}
+
+.log:hover {
+    width: 225px;
+    background: #dfd2fa;
+    transition: 1s;
+}
+
+.but:hover {
+    width: 130px;
+    background-color: #dfd2fa;
+    transition: 1s;
+    color: rgb(23, 2, 36);
+}
+
+.fr {
+
+    width: 100%;
+    margin: 0px;
+    position: static;
+}
+
+.fr2 {
+    height: 434px;
+    background-color: #d6c0fa;
+    width: 44%;
+    float: left;
+}
+
+.fr2 img {
+    margin-top: 120px;
+    margin-left: 25px;
+    height: 200px;
+}
+
+.fr3 {
+    height: 434px;
+    float: left;
+    width: 56%;
+    background-color: aqua;
+}
+
+.fr3 img {
+
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.cont1 {
+    width: 100%;
+    height: 10px;
+    text-align: center;
+    position: static;
+}
+.container2{
+    width: 100%;
+    height: 640px;
+    background-color: #ffffff;
+    display: inline-block;
+}
+.conta1 img{
+    height: 465px;
+    float:left;
+    margin-top: 165px;
+}
+.conta2 img{
+    height: 430px;
+    float:right;  
+    margin-top: 20px;  
+}
+.conta3 img{
+    height: 350px;
+    float:left;
+    margin-top: 100px;
+
+}
+.container2 texto{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    background-color: aqua;
+    
+}

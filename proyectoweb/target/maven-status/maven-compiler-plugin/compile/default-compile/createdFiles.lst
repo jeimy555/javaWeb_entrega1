@@ -1,0 +1,8 @@
+model\Mensaje\MensajeVO.class
+model\Usuario\UsuarioVO.class
+model\Estado\EstadoVO.class
+model\Estado\EstadoDAO.class
+model\Mensaje\MensajeDAO.class
+controller\Usuario.class
+model\Conexion.class
+model\Usuario\UsuarioDAO.class

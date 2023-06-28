@@ -1,0 +1,142 @@
+* {
+
+    margin: 0px;
+    font-family: 'Alkatra', cursive;
+}
+
+body{
+    background-image: url(https://img.freepik.com/vector-premium/fondo-onda-estilo-minimalista_278222-572.jpg?w=2000);
+}
+
+.top {
+    height: 63px;
+    width: 100%;
+    background-color: #211b2e;
+
+
+}
+
+.log {
+    height: 62px;
+    width: 185px;
+    border-top-right-radius: 28px;
+    border-bottom-right-radius: 28px;
+    background-color: #9064f0;
+    position: relative;
+    box-shadow: 5px -1px 5px #1a0646;
+    position: relative;
+    float: left;
+
+
+}
+
+.log img {
+    height: 62px;
+    margin-left: 10px;
+
+}
+
+.log2 {
+    position: relative;
+    float: right;
+    margin-left: 700px;
+}
+
+.log2 {
+    float: right;
+    margin-right: 30px;
+    color: #350750;
+}
+
+.log2 img {
+    border-radius: 50%;
+    float: left;
+    padding: 5px;
+    height: 50px;
+    width: 50px;
+
+}
+
+.but {
+    margin-top: 10px;
+    height: 35px;
+    width: 120px;
+    border-radius: 30px;
+    text-align: center;
+    background-color: #9064f0;
+    box-shadow: 5px -1px 5px #1a0646;
+    float: left;
+    padding-top: 8px;
+    margin-right: 20px;
+}
+
+.but a {
+
+    text-decoration: none;
+    color: #1a0441;
+
+}
+
+.log:hover {
+    width: 225px;
+    background: #dfd2fa;
+    transition: 1s;
+}
+
+.but:hover {
+    width: 130px;
+    background-color: #dfd2fa;
+    transition: 1s;
+    color: rgb(23, 2, 36);
+}
+
+.contF {
+    Width: 450;
+    Height: auto;
+    Background-color: violet;
+    Float: left;
+
+}
+
+
+
+.buscar {
+    width: 100%;
+    
+    margin-top: 100px;
+}
+.buscar input{
+    width: 500px;
+    margin:10px;
+}
+main{
+    text-align: center;
+}
+
+.table1 {
+    border-collapse: collapse;
+    margin-left:250px;
+    font-size: 1em;
+    font-family: sans-serif;
+    min-width: 450px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    
+}
+
+.table1 thead tr {
+    background-color: #980081;
+    color: #ffffff;
+    text-align: middle;
+}
+
+.table1 tbody tr {
+    border-bottom: 1px solid #aa4747;
+}
+
+.table1 tbody tr:nth-of-type(even) {
+    background-color: #c28dc4;
+}
+
+.table1 tbody tr:last-of-type {
+    border-bottom: 2px solid #051411;
+}
